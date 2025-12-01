@@ -3,6 +3,10 @@
 video evidencia:
 https://drive.google.com/file/d/1s-1OHOSpIMrhj0ICLhLBY_9wq_4h5mRc/view?usp=sharing
 
+Slides apresentados em sala:
+https://docs.google.com/presentation/d/1vZ35befJFKu80tzYnFuGHYr_L4IAarw-nd_PR_uFPd8/edit?usp=sharing
+
+
 📽️ API de Recomendação de Filmes
 FastAPI + Machine Learning (Collaborative & Content-Based Filtering)
 
